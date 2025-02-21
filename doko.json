@@ -1,12 +1,12 @@
 {
-  "buttons": [
-    {
-      "name": "Panel External 64 & 32 Bit",
-      "status": "Available"
-    },
-    {
-      "name": "ESP Stream 64 & 32 Bit",
-      "status": "Available"
-    }
-  ]
+    "buttons": [
+        {
+            "label": "Panel External 64 & 32 Bit",
+            "status": "Available"
+        },
+        {
+            "label": "ESP Stream 64 & 32 Bit",
+            "status": "Maintenance"
+        }
+    ]
 }
