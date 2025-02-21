@@ -2,13 +2,13 @@
   "buttons": [
     {
       "name": "Panel External 64 & 32 Bit",
-      "logo": "logo1",
-      "status": "active"
+      "status": "active",
+      "logo": "logo1"
     },
     {
       "name": "ESP Stream 64 & 32 Bit",
-      "logo": "logo1",
-      "status": "maintenance"
+      "status": "active",
+      "logo": "logo1"
     }
   ]
 }
